@@ -1,0 +1,27 @@
+{
+  "name": "proyecto",
+  "homepage": "https://github.com/cristiangallego18/proyecto",
+  "description": "Proyecto de fotografía",
+  "main": "index.html",
+  "keywords": [
+    "fotos",
+    "consulta",
+    "camara",
+    "digital",
+    "lente"
+  ],
+  "authors": [
+    "Cristian Felipe Gallego- Nayibe Lizeth Salazar- Jesús David Henao Parra"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
