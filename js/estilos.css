@@ -1,0 +1,29 @@
+body {
+    background:url(images/black.png);
+    background-attachment: fixed;
+    color: white;
+    
+}
+h2{
+    color:white;
+    font-size: 40;
+}
+
+
+
+h1{
+    font-size: 60;
+    color:white;
+}
+
+
+
+a1{
+    font-size: 30;
+    color:white;
+}
+
+p{
+    font-size: 19;
+    color:white;
+}
